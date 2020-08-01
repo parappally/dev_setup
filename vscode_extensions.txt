@@ -1,0 +1,4 @@
+ESLint
+Prettier - Code formatter
+Python
+Visual Studio Intellicode
