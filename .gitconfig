@@ -1,0 +1,13 @@
+[user]
+        name = Josiah Parappally
+[pull]
+        ff = only
+        rebase = false
+[alias]
+        s = status
+        d = diff
+        co = checkout
+        ci = commit
+        br = branch
+        cane = commit --amend --no-edit
+        a = add
